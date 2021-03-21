@@ -1,19 +1,11 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: nCore HR
+  position: Senior Software Develpper & Data Scientist
+  duration: Since July 2019
+  summary: Development of new features, optimization and testing of saas proprietary product. Working with international partners and customers. Data Analysis and Machine learning algorithm (classiﬁcation, regression, natural language processing) on large volume of data. ELK (ElasticSearch, Kibana, Logstash) for statistics, visualization and data analysis. Most used technologies are PHP, Symfony, MySQL, MongoDB, Python (including libraries as numpy, scikit, nltk, matplotlib, scipy), ElasticSearch, Logstash, Kibana, Docker.
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: e-one
+  position: Full stack Web Developer
+  duration:  November 2015 - July 2019
+  summary: Full stack Web Developer & Devops. Design (effort, technologies, infrastructure, model, optimization, continous integration), develope and testing high load web applications. Optimization process from database level to application level including custom solutions. Data analysis and statistics using SQL databases, NoSQL databases and ElasticSearch. Setting up docker for both development and production with continous integration solutions such as Gitlab CI and Jenkins. Most used technologies are PHP, Symfony (and all related components), MySQL, MongoDB, Redis, ElasticSearch, Git, Linux (LAMP stack), Apache, NGINX, Docker, Javascript, AngularJS, VueJS.
