@@ -1,12 +1,13 @@
 # Skills
-# Organizational leadership
-# - skill: Organizational leadership
-#   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# # Communications strategy
-# - skill: Communications strategy
-#   description: Content and marketing strategy,
+# Data analyst and Data scientist
+- skill: Data analyst and Data scientist
+  description: I work daily with big data both as data analyst and data scientist especially with NLP. Statistics using SQL databases, NoSQL databases and ElasticSearch. Machine learning algorithm (classiﬁcation, regression, natural language processing) on large volume of data.
 
-# # Digital content development and creation
-# - skill: Digital content development and creation
-#   description: Copy writing, graphic design, web design, front-end web development, print design
+# Software developer
+- skill: Software Developer
+  description: I have several years of experience as software developer, especially as web developer. I worked with a lot of technologies such as php, python, symfony, flask, django, javascript, vuejs and others.
+
+# Devops
+- skill: DevOps
+  description: I have experiences with AWS technologies, docker and continous integrations solutions.

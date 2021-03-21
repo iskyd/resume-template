@@ -117,6 +117,26 @@
       <!-- end Projects -->
       {% endif %}
 
+      {% if site.resume_section_certifications %}
+      <!-- begin Education -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Certifications</h2>
+        </header>
+
+        {% for certification in site.data.certifications %}
+        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name">{{ certification.organization }}</h3>
+          <h4 class="resume-item-details group" itemprop="description">{{ certification.title }} &bull; {{ certification.year }}</h4>
+
+
+          {% if certification.description %}<p class="resume-item-copy">{{ certification.description }}</p>{% endif %}
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Education -->
+      {% endif %}
+
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
       <section class="content-section">
